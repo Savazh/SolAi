@@ -1,0 +1,1 @@
+Database schema for AI models and blockchain interactions.
