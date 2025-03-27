@@ -1,7 +1,5 @@
 # AI-Powered Solana Platform
 
-# AI-Powered Solana Platform
-
 ## Overview
 This project is a **Full-Stack AI Platform** built on the **Solana blockchain**, integrating **ChatGPT and AI analytics** for a seamless and intelligent user experience.
 
